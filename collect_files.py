@@ -17,5 +17,4 @@ def save(from_d, out):
 
 st_path = sys.argv[1]
 drop = sys.argv[2]
-
 save(st_path, drop)
