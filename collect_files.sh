@@ -22,4 +22,4 @@ find "$input_dir" -type f -exec cp {} "$output_dir" \;
 
 echo "Files copied successfully"
 
-лпрпропро
+
